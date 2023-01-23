@@ -1,2 +1,2 @@
 # LIN_Analyser
-Very hacky command line tool for LIN bus node reverse engineering
+Very hacky command line tool for reverse engineering LIN bus nodes
